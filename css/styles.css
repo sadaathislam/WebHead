@@ -6,7 +6,7 @@ body {
   padding: 0px;
   overflow-x: hidden;
 }
-@media (max-width: 800px) {
+@media (max-width: 1366px) {
   html, body {
   overflow-x: hidden;
   width: 100%;
